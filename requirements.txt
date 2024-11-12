@@ -1,0 +1,16 @@
+fitz
+pyttsx3
+frontend
+tools
+PyMuPDF
+pygame
+pytesseract
+speechrecognition
+gtts
+mpyg321
+transformers
+tf-keras
+sentence_transformers
+pronouncing
+langchain-openai
+scikit-learn
